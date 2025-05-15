@@ -1,15 +1,20 @@
 {
     "name": "squaldaniel/joy-mini",
-    "autoload": {
-        "psr-4": {
-            "DanielSantos\\JoyMini\\": "/"
-        }
-    },
+    "description": "Um micro framework PHP para projetos simples.",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Daniel Santos",
             "email": "danielsantos.prog.sp@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "DanielSantos\\JoyMini\\": "src/"
+        }
+    },
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
