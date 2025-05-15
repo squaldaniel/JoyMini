@@ -1,0 +1,15 @@
+{
+    "name": "joytec/joy-mini",
+    "autoload": {
+        "psr-4": {
+            "DanielSantos\\JoyMini\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Santos",
+            "email": "danielsantos.prog.sp@gmail.com"
+        }
+    ],
+    "require": {}
+}
