@@ -1,5 +1,5 @@
 {
-    "name": "squaldaniel/joy-mini",
+    "name": "squaldaniel/joymini",
     "description": "Um micro framework PHP para projetos simples.",
     "type": "project",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DanielSantos\\JoyMini\\": "src/"
+            "DanielSantos\\JoyMini\\": "/"
         }
     },
     "require": {},
