@@ -1,5 +1,5 @@
 {
-    "name": "joytec/joy-mini",
+    "name": "squaldaniel/joy-mini",
     "autoload": {
         "psr-4": {
             "DanielSantos\\JoyMini\\": "/"
